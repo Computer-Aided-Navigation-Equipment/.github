@@ -4,7 +4,7 @@
 - Amna Bubshait
 - Rawan Albinzayed
 - Reem Burshaid
-- Zahraa Alshehabi
+- Zahra Alshehabi
 
 ## Overview:
 Individuals with visual challenges face significant mobility challenges due to a lack of efficient obstacle detection technologies. Current solutions frequently lack the required reactivity, resulting in accidents and decreased freedom. Furthermore, many existing equipment lack adjustable feedback choices, limiting users' ability to change their experience based on their preferences. 
