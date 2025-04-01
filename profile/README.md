@@ -27,3 +27,17 @@ As computer science and computer engineering professionals, our goal is to use o
 ### Mobile Application:
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+
+## System Design:
+
+### UML Use Case Diagram:
+
+![uml](https://github.com/user-attachments/assets/0eba8278-20c4-4dfd-a240-ad5f6c031518)
+
+### UML Activity Diagram:
+
+![activity_diagram](https://github.com/user-attachments/assets/b7a9388d-f353-454c-81a7-3bd56f90b683)
+
+### UX/UI Sitemap:
+
+![sitemap](https://github.com/user-attachments/assets/3b3c95d2-bb23-45d4-b5ee-569d3843c3db)
