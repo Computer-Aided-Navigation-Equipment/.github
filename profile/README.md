@@ -7,7 +7,9 @@
 - Reem Burshaid
 - Zahra Alshehabi
 
-## Overview
+## Overview ([Click here to view presentation](https://www.canva.com/design/DAGZo888pPA/mAbR5whU-b2dcG5njhe3dA/view?utm_content=DAGZo888pPA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha2ca2270ee))
+
+![Poster Smart CANE](https://github.com/user-attachments/assets/e6e5c55d-a765-4089-98d4-94d0c1a8e979)
 
 Individuals with visual challenges face significant mobility challenges due to a lack of efficient obstacle detection technologies. Current solutions frequently lack the required reactivity, resulting in accidents and decreased freedom. Furthermore, many existing equipment lack adjustable feedback choices, limiting users' ability to change their experience based on their preferences. 
 As computer science and computer engineering professionals, our goal is to use our knowledge of both hardware and software to develop a smart cane that addresses these difficulties head on. The project will use advanced sensors to detect obstacles and provide fast alerts by vibrations or audible feedback. Furthermore, the program will deliver real-time updates to caregivers, which will improve the support system for visually impaired people. By combining advanced technology with a focus on user needs, our goal is to offer a solution that promotes mobility, safety, and overall quality of life for the visually impaired community. 
