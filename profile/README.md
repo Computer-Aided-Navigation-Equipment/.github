@@ -1,4 +1,4 @@
-# Smart CANE: Computer-Aided Navigation Empowering the Visually Impaired
+# SMART CANE: Computer-Aided Navigation Empowering the Visually Impaired
 
 ## Done by
 
