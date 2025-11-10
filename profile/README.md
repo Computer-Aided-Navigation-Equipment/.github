@@ -7,6 +7,20 @@
 - Reem Burshaid
 - Zahra Alshehabi
 
+## Citation(s):
+If you use this work in your research, please cite it as:
+
+```bibtex
+@article{Bubshait2025,
+  author = "Amna Bubshait and Rawan Albinzayed and Reem Burshaid and Zahra Alshehabi",
+  title = "{SMART CANE: Computer-Aided Navigation Empowering the Visually Impaired}",
+  year = "2025",
+  month = "11",
+  url = "https://aubh.figshare.com/articles/thesis/_b_SMART_CANE_Computer-Aided_b_b_Navigation_Empowering_the_Visually_b_b_Impaired_b_/30579869",
+  doi = "10.58014/aubh.30579869.v1"
+}
+```
+
 ## Overview ([Click here to view presentation](https://www.canva.com/design/DAGZo888pPA/mAbR5whU-b2dcG5njhe3dA/view?utm_content=DAGZo888pPA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha2ca2270ee))
 
 ![Poster Smart CANE](https://github.com/user-attachments/assets/e6e5c55d-a765-4089-98d4-94d0c1a8e979)
