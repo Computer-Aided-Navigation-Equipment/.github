@@ -11,6 +11,22 @@
 If you use this work in your research, please cite it as:
 
 ```bibtex
+@INPROCEEDINGS{11319085,
+  author={Bubshait, Amna and Albinzayed, Rawan and Burshaid, Reem and Alshehabi, Zahra and Azuela, Herbert},
+  booktitle={2025 IEEE International Conference on Emerging Trends in Engineering and Computing (ETECOM)}, 
+  title={SMART CANE: Computer-Aided Navigation Empowering the Visually Impaired}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-8},
+  abstract={Daily tasks pose significant challenges for people who are visually impaired, especially in navigating the environment. That emphasizes the crucial need for advances in the use of modern technologies in assisting equipment. The objective of this capstone project is to design and develop a Smart CANE that assists the visually impaired by improving mobility using obstacle detection, image recognition, GPS tracking, and temperature detection. The cane is connected to a website and an application dedicated to both users and caregivers. In this project, a mixed-method approach was employed, in which qualitative user requirements and feedback were collected, and quantitative performance metrics were used. Obstacle detection was achieved with YOLOv5 by pairing a LiDAR sensor and a buzzer with a camera to protect the user via audio alerts. In addition, a GPS module is utilized for the location tracking feature, in addition to the temperature sensor that identifies potential hazards from sudden temperature changes. User-friendly applications are responsible for accompanying the device by allowing users to access settings and provide them with real-time data. Initial trials have proven that the cane is successful in obstacle detection with immediate alerts. With the help of its website and app, the smart blind CANE has the potential to significantly improve the safety and independence of people with visual impairments, opening the door for more advancements and use of technological aids. The findings of this project are intended to substantially contribute to the field of wearable technology and accessibility technology.},
+  keywords={Temperature sensors;YOLO;Laser radar;Navigation;Visual impairment;Performance metrics;Market research;Real-time systems;Wearable devices;Global Positioning System;Smart CANE;Visually Impaired;Obstacle Detection;YOLOv5;LiDAR;GPS Tracking;Temperature Sensor;Wearable Technology;Assistive Technology;Accessibility},
+  doi={10.1109/ETECOM66111.2025.11319085},
+  ISSN={},
+  month={Oct},}
+```
+
+```bibtex
 @article{Bubshait2025,
   author = "Amna Bubshait and Rawan Albinzayed and Reem Burshaid and Zahra Alshehabi",
   title = "{SMART CANE: Computer-Aided Navigation Empowering the Visually Impaired}",
