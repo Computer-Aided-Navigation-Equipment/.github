@@ -7,7 +7,11 @@
 - Reem Burshaid
 - Zahra Alshehabi
 
-## Citation(s):
+## Supervised by
+
+- Mr. Herbert Azuela, College of Engineering and Computing, American University of Bahrain (AUBH), Riffa, Bahrain
+
+## Citation(s)
 If you use this work in your research, please cite it as:
 
 ```bibtex
