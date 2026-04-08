@@ -31,6 +31,17 @@ If you use this work in your research, please cite it as:
 ```
 
 ```bibtex
+@article{Azuela2026,
+  author = "Herbert Azuela and Amna Bubshait and Rawan Albinzayed and Reem Burshaid and Zahra Alshehabi",
+  title = "{SMART CANE: Computer-Aided Navigation Empowering the Visually Impaired}",
+  year = "2026",
+  month = "2",
+  url = "https://aubh.figshare.com/articles/conference_contribution/SMART_CANE_Computer-Aided_Navigation_Empowering_the_Visually_Impaired/31397946",
+  doi = "10.58014/aubh.31397946.v1"
+}
+```
+
+```bibtex
 @article{Bubshait2025,
   author = "Amna Bubshait and Rawan Albinzayed and Reem Burshaid and Zahra Alshehabi",
   title = "{SMART CANE: Computer-Aided Navigation Empowering the Visually Impaired}",
